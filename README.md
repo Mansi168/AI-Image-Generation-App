@@ -5,13 +5,13 @@ Welcome to the DALL-E AI Image Generating App! This app leverages the power of O
 ## Features
 
 - **AI Image Generation**: Input your creative prompts, and the AI generates unique and diverse images.
-- <img width="491" alt="image" src="https://github.com/Mansi168/AI-Image-Generation-App/assets/99342612/2ed897fb-0929-440b-a94c-0780c1ea26e1">
+  <img width="491" alt="image" src="https://github.com/Mansi168/AI-Image-Generation-App/assets/99342612/2ed897fb-0929-440b-a94c-0780c1ea26e1">
 
 - **Search Functionality**: Easily search and explore the generated images using specific keywords.
-- <img width="660" alt="image" src="https://github.com/Mansi168/AI-Image-Generation-App/assets/99342612/3adea2c5-f5d4-430d-9271-1f4558d8b52c">
+  <img width="660" alt="image" src="https://github.com/Mansi168/AI-Image-Generation-App/assets/99342612/3adea2c5-f5d4-430d-9271-1f4558d8b52c">
 
 - **Community Showcase**: Share and view a collection of fascinating AI-generated images created by users.
-- <img width="815" alt="image" src="https://github.com/Mansi168/AI-Image-Generation-App/assets/99342612/a8b9ac08-c110-4ffb-ab03-1d13ac518221">
+  <img width="815" alt="image" src="https://github.com/Mansi168/AI-Image-Generation-App/assets/99342612/a8b9ac08-c110-4ffb-ab03-1d13ac518221">
 
 
 ## Demo
